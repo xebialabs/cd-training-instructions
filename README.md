@@ -20,14 +20,14 @@
 2. Make sure you have VirtualBox 4.2  installed. It can be downloaded here: https://www.virtualbox.org/wiki/Downloads 
 3. Unpack the archive (password should be in the mail you've received). You will get the Virtual Box Appliance file (.ova)
 4. Import it to your VirtualBox via graphical interface: File -> Import appliance
-5. Make sure that in the settings of the imported virtual machine (right click on machine -> settings -> Network -> Adapter2) name of the host only adapter matches the adapter configured in VirtualBox global preferences (VirtualBox -> Preferences -> Network) and it's IP address 10.20.20.1 and Network Mask is 255.255.255.0. Create a new one and update it in the Machinve Settings if needed.
+5. Make sure that in the settings of the imported virtual machine (right click on machine -> settings -> Network -> Adapter2) name of the host only adapter matches the adapter configured in VirtualBox global preferences (VirtualBox -> Preferences -> Network) and it's IP address 10.20.20.1 and Network Mask is 255.255.255.0. Create a new one and update it in the Machine Settings if needed.
 
 Imported machine settings:
 <img src="http://tech.xebialabs.com/continuous-delivery-training/imported-machine-settings.png" alt="Imported machine settings" />
 
 
-Global Virtualbox Preferences:
-<img src="http://tech.xebialabs.com/continuous-delivery-training/global-vbox-preferences.png" alt="Global Virtualbox Preferences" />
+Global VirtualBox Preferences:
+<img src="http://tech.xebialabs.com/continuous-delivery-training/global-vbox-preferences.png" alt="Global VirtualBox Preferences" />
 
 ### Smoke test
 
