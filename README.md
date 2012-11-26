@@ -37,6 +37,7 @@ In the end you should be able to access the following URLs:
 * Deployit: http://10.20.20.20:4516/
 * Jboss: http://10.20.20.20:8080/
 * Svn: http://10.20.20.20/svn/
+* Apache: http://10.20.20.20/
 
 
 ### Notes
