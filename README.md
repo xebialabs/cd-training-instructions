@@ -13,7 +13,6 @@
 * Mysql: root/root
 * Maven home: /usr/share/maven (Global env variable MAVEN_HOME is available)
 * Java (jdk) home: /usr/lib/jvm/java-6-openjdk-i386 (Global env variable JAVA_HOME is available)
-* Archive password: xebial@bs
 
 ### Steps to perform
 
