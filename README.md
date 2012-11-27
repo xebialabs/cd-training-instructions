@@ -1,5 +1,8 @@
 ## continuous-delivery-training
 
+### Mac users
+
+You can extract the zip file using the free Keka tool, download it here: http://www.kekaosx.com/en/
 
 ### Image details
 
