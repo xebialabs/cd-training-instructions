@@ -1,8 +1,21 @@
 ## continuous-delivery-training
 
-### Mac users
+### 7-Zip
 
-You can extract the zip file using the free Keka tool, download it here: http://www.kekaosx.com/en/
+The encrypted ZIP archive can be extracted with 7-Zip or p7zip:
+
+* Windows: http://sourceforge.net/projects/sevenzip/
+* Mac OS X: http://www.kekaosx.com/
+* Debian (and Ubuntu): http://packages.debian.org/squeeze/p7zip-full
+* Other systems: http://www.7-zip.org/download.html
+
+
+### Minimum hardware requirements
+
+To run the virtual machine on your laptop you need to have at least available:
+* free RAM: 1.5 GB
+* free disk space: 4 GB
+
 
 ### Image details
 
@@ -47,7 +60,3 @@ In the end you should be able to access the following URLs:
 
 * Shall you restart deployit or jboss - do it with sudo (since it was started via rc.local first time, some lock/temp files will have root ownership).
 * Jboss should be started with binding IP address 0.0.0.0: sudo /opt/jbossas/5.1.0.GA/bin/run.sh -b 0.0.0.0
-    
-
-
-
